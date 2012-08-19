@@ -1,0 +1,6 @@
+ 2021  paste Fut_phase1 Fut_phase2 > ff_genuine_matcher.sh
+ 2022  paste Lum_phase1 Fut_phase1 > lf_genuine_matcher.sh
+ 2023  paste Fut_phase1 Sec_phase1 > fs_genuine_matcher.sh
+ 2024  paste Lum_phase1 Lum_phase2 > ll_genuine_matcher.sh
+ 2025  paste Lum_phase1 Sec_phase1 > ls_genuine_matcher.sh
+ 2026  paste Sec_phase1 Sec_phase2 > ss_genuine_matcher.sh

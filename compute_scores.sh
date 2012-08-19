@@ -1,0 +1,12 @@
+./ff_genuine_matcher.sh	> fut_vs_fut_genuine_matching_via_mandi
+./ff_imposter_matcher.sh > fut_vs_fut_imposter_matching_via_mandi
+./fs_genuine_matcher.sh > fut_vs_sec_genuine_matching_via_mandi
+./fs_imposter_matcher.sh > 	fut_vs_sec_imposter_matching_via_mandi
+./lf_genuine_matcher.sh >	lum_vs_sec_genuine_matching_via_mandi
+./lf_imposter_matcher.sh > 	lum_vs_fut_imposter_matching_via_mandi
+./ll_genuine_matcher.sh >		lum_vs_lum__genuine_matching_via_mandi
+./ll_imposter_matcher.sh > 	lum_vs_lum_imposter_matching_via_mandi
+./ls_genuine_matcher.sh >		lum_vs_sec_genuine_matching_via_mandi
+./ls_imposter_matcher.sh > 	lum_vs_sec_imposter_matching_via_mandi
+./ss_genuine_matcher.sh >		sec_vs_sec_genuine_matching_via_mandi
+./ss_imposter_matcher.sh > 	sec_vs_sec_imposter_matching_via_mandi

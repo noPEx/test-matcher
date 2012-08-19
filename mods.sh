@@ -1,0 +1,12 @@
+chmod +x	ff_genuine_matcher.sh
+chmod +x	ff_imposter_matcher.sh
+chmod +x	fs_genuine_matcher.sh
+chmod +x	fs_imposter_matcher.sh
+chmod +x	lf_genuine_matcher.sh
+chmod +x	lf_imposter_matcher.sh
+chmod +x	ll_genuine_matcher.sh
+chmod +x	ll_imposter_matcher.sh
+chmod +x	ls_genuine_matcher.sh
+chmod +x	ls_imposter_matcher.sh
+chmod +x	ss_genuine_matcher.sh
+chmod +x	ss_imposter_matcher.sh
